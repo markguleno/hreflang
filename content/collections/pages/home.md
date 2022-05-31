@@ -1,16 +1,25 @@
 ---
-title: Home
 id: home
-template: home
 blueprint: pages
+title: Home
+template: home
+seo_title: '@auto'
+seo_description: '@default'
+seo_og_image: '@default'
+seo_og_title: '@auto'
+seo_og_description: '@auto'
+seo_twitter_card: '@default'
+seo_twitter_summary_image: '@default'
+seo_twitter_title: '@auto'
+seo_twitter_description: '@auto'
+seo_canonical_type: '@default'
+seo_noindex: '@default'
+seo_nofollow: '@default'
+seo_sitemap_enabled: '@default'
+seo_sitemap_priority: '@default'
+seo_sitemap_change_frequency: '@default'
+seo_json_ld: '@default'
+updated_by: b1943171-0e5c-4c46-bc42-c39e33663975
+updated_at: 1654032171
 ---
-## Welcome to your new brand Statamic site!
-
-Not sure where to do next? Here are a few ideas, but feel free to explore in your own way, in your own time.
-
-- [Jump into the Control Panel](/cp) and edit this page or begin setting up your own collections and blueprints.
-- [Head to the docs](https://statamic.dev) and learn how Statamic works.
-- [Watch some Statamic videos](https://youtube.com/statamic) on YouTube.
-- [Join our Discord chat](https://statamic.com/discord) and meet thousands of other Statamic developers.
-- [Start a discussion](https://github.com/statamic/cms/discussions) and get answers to your questions.
-- [Star Statamic on Github](https://github.com/statamic/cms) if you enjoy using it!
+[Please click this link to visit the test page.](/articles/categories/test)
