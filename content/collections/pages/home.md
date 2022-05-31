@@ -19,7 +19,7 @@ seo_sitemap_enabled: '@default'
 seo_sitemap_priority: '@default'
 seo_sitemap_change_frequency: '@default'
 seo_json_ld: '@default'
-updated_by: b1943171-0e5c-4c46-bc42-c39e33663975
-updated_at: 1654032171
+updated_by: 2af329a7-645c-4c98-a547-000363311778
+updated_at: 1654038950
 ---
-[Please click this link to visit the test page.](/articles/categories/test)
+[Please click this link to visit the term page.](/articles/categories/term)
